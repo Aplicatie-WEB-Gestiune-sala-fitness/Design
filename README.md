@@ -1,5 +1,3 @@
-# Design-ul proiectului de gestiune a sălii de fitness.
-
 
 ### 🔗 Link-uri Figma
 
