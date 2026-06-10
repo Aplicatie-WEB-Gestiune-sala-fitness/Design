@@ -1,5 +1,5 @@
-# Design
-Partea vizuală a proiectului de gestiune a sălii de fitness.
+# Design-ul proiectului de gestiune a sălii de fitness.
+
 
 ### 🔗 Link-uri Figma
 
